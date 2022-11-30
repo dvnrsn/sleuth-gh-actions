@@ -4,4 +4,4 @@
 const a = 'b';
 const c = 'd';
 const d = 'ftyj';
-// pass the working cool
+// pass the working goat
