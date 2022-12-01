@@ -4,4 +4,4 @@
 const a = 'b';
 const c = 'd';
 const d = 'ftyj';
-// pass the frieds
+// pass the fried
